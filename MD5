@@ -1,4 +1,4 @@
-cddf1da09cdfddb8ee67e226f65e98db *DESCRIPTION
+9b67dd29aabf4d19145f553de4c20365 *DESCRIPTION
 177846fd6d1b3fdaadec669ffe8bf58c *NAMESPACE
 818ba48382856af5e6b974e9ebec3438 *NEWS
 4392ad7330b01587abb8b81f04d13735 *R/Dunnetts.K.F1.R
@@ -29,7 +29,7 @@ e70bd357965be3848ccddb7c880d4b09 *R/boxcox.R
 3d52f3b4528e05825cfc36352fe502e7 *R/boxcoxMultiplyCensored.R
 9aea469ce34f1c4744d2d2856ee18c94 *R/boxcoxSinglyCensored.R
 5c6f7df5b07c4d15fe1569209206ff15 *R/boxcoxTransform.R
-8e4e3a894d197fd54d11fb855b62a9b8 *R/calibrate.R
+81aa64e7c6ed1457f1b72ac24122ffea *R/calibrate.R
 57d0795893b5d7fd28d3222fec550d47 *R/cbind.no.warn.R
 cfa36ae10be84796b904ba1b1b2964b9 *R/cdfCompare.R
 9dce9bcc0f13acd8c1b71c67114df0b6 *R/cdfCompareCensored.R
@@ -124,7 +124,7 @@ ea703cd466e985bff5dfa5dbadb26c0f *R/eexp.R
 4fc9631b2bb41afaf57d16d1a7ae9ee9 *R/egammaAlt.R
 8d9ad3e022dc05a28296c08ba9f43bbb *R/egammaAlt.cv.mle.at.fixed.mean.R
 81e6555403274aab323099ccebb6dd1a *R/egammaAltCensored.R
-97208e89c60d684e37655271be20a3ac *R/egammaAltCensored.bootstrap.ci.R
+ee553db9bfc6ba27a9dbc19990d66297 *R/egammaAltCensored.bootstrap.ci.R
 9ed7bcbc7ec6d0a00cd7e5f6d11270fe *R/egammaAltCensored.cv.mle.at.fixed.mean.R
 a9067ad66c9436402d7991f197f17d5b *R/egammaAltCensored.jackknife.R
 237fb083852b33945a49d1372be43978 *R/egammaAltCensored.mle.R
@@ -142,7 +142,7 @@ f7cd5c479d216125289a69191d40d123 *R/egeom.R
 67ae99bbed454547ca9468b7a7c6cf4e *R/elnormAltCensored.cv.mle.at.fixed.mean.R
 fc6f36a82ab7850bd83a90db770744d7 *R/elnormAltMultiplyCensored.R
 9a8a1cd75a96315f9e9bf1d046ff7116 *R/elnormAltMultiplyCensored.bcmle.R
-033f93fd62e90b440f08af613d2fab8d *R/elnormAltMultiplyCensored.bootstrap.ci.R
+c6cc25a4064be542250c13b9db5940f9 *R/elnormAltMultiplyCensored.bootstrap.ci.R
 72809a8440367b1b2e7fe9983b54c174 *R/elnormAltMultiplyCensored.half.cen.level.R
 0efc3e434eb884356b9d5fd1c2ef140f *R/elnormAltMultiplyCensored.impute.w.qq.reg.R
 f9d3766912cee648616f7de509b950b0 *R/elnormAltMultiplyCensored.jackknife.R
@@ -150,7 +150,7 @@ fde446f99cf70dce55a8805ab32a48ec *R/elnormAltMultiplyCensored.mle.R
 426f378d95b7c12358c2b160ec8d8fde *R/elnormAltMultiplyCensored.qmvue.R
 e935e4e104a42f84fcbcddad6c69c95c *R/elnormAltSinglyCensored.R
 7e907958f8c7bea1c1367b1d741f235c *R/elnormAltSinglyCensored.bcmle.R
-5e0e1b558149f7f4e1f802e22975beb1 *R/elnormAltSinglyCensored.bootstrap.ci.R
+7cbae555bfc2903e4e450d9b32be6a7f *R/elnormAltSinglyCensored.bootstrap.ci.R
 7719288d9a22142ca10e94aeef3e2dbe *R/elnormAltSinglyCensored.half.cen.level.R
 7e25dd38734d1f88b6780b941af04010 *R/elnormAltSinglyCensored.impute.w.mle.R
 cea1edbb1d2fc7d01a56832d7f85d6dc *R/elnormAltSinglyCensored.impute.w.qq.reg.R
@@ -167,7 +167,7 @@ ec9e8b857bbc2fe4042169a1f07bb9e9 *R/enorm.R
 3ac79b70ae76a981ef2c072bcd1bca1b *R/enormCensored.R
 08fa6b049e415a513977d63bff4bb45d *R/enormCensored.sd.mle.at.fixed.mean.R
 ddbfd1180ac3184e039938c12c1fe63c *R/enormMultiplyCensored.R
-594db3200e90fee6d1e599f4c97d42e6 *R/enormMultiplyCensored.bootstrap.ci.R
+7f2d9d51f61484e73a87ed0664b8a1f1 *R/enormMultiplyCensored.bootstrap.ci.R
 23c1d66d3d55b678bb7c430228b1d8a9 *R/enormMultiplyCensored.half.cen.level.R
 4e3be21dd870ae12684a0d697bcc233d *R/enormMultiplyCensored.impute.w.qq.reg.R
 78a767526329bc4482090903b2b7e0f7 *R/enormMultiplyCensored.jackknife.R
@@ -175,7 +175,7 @@ ddbfd1180ac3184e039938c12c1fe63c *R/enormMultiplyCensored.R
 a0a5d9b328c7d9483fe36153529e326f *R/enormMultiplyCensored.qq.reg.R
 d5fc86b35d55cc8d17d3fc4e07c014ed *R/enormSinglyCensored.R
 1aac4c90b66fb6cfde7e3333d89bf16d *R/enormSinglyCensored.bcmle.R
-4960f2790bc43488b405dd9235c3a740 *R/enormSinglyCensored.bootstrap.ci.R
+729106e320880b1c4b3ccfee81f6be35 *R/enormSinglyCensored.bootstrap.ci.R
 3f87a3b0ca2797d675dfedf917510583 *R/enormSinglyCensored.half.cen.level.R
 0bd98a53084fef5829537333ea57e20f *R/enormSinglyCensored.impute.w.mle.R
 6ff061157224ff82df7213fb374a8544 *R/enormSinglyCensored.impute.w.qq.reg.R
@@ -187,7 +187,7 @@ eef0ec773c505296fdfdc01958aba531 *R/enormSinglyCensored.mle.R
 738c0855638b77b937c1b09b78255e1b *R/enormSinglyCensored.qq.reg.R
 128036c4b5da570bbad9da83d5e2a2b9 *R/enormSinglyCensored.qq.reg.w.cen.level.R
 b2ce720f5a038eef13c475d3c145bcdc *R/enparCensored.R
-f3e667c3d0e6d154e8db636af5f278eb *R/enparCensored.bootstrap.ci.R
+f82a03d82c2deee971ae9940730850df *R/enparCensored.bootstrap.ci.R
 b24d03bb97ee7f2f13433d20e7d3a60c *R/enparCensored.jackknife.R
 0eda7cd2aab8c4f40ab668af942ef389 *R/enparCensored.km.R
 20c84c8f9d7103c6b82f689770689a22 *R/envstatsDistChoose.R
@@ -198,11 +198,11 @@ ad3eece52cb7ee6ac141882177f842f8 *R/epdfPlot.R
 ffca12178f92e5b5bba29e2d13ac0926 *R/epoisCensored.R
 2e63b8a4eb5d72e031a2bda16a70778f *R/epoisCensored.jackknife.R
 bfd2bb636ee7a7a1a1102fa0a1f08175 *R/epoisMultiplyCensored.R
-2fdd1a514d67d5c22b407c5250df3037 *R/epoisMultiplyCensored.bootstrap.ci.R
+ef93ef2ed2f5ede672a2adf279f6fb83 *R/epoisMultiplyCensored.bootstrap.ci.R
 1c7e085a3cf7f41677a85170a6e8a1c6 *R/epoisMultiplyCensored.half.cen.level.R
 b1b5b2441b51b85e831ae0cdbd7af1ec *R/epoisMultiplyCensored.mle.R
 16dc0abe52c71820a1fcdf36f314e570 *R/epoisSinglyCensored.R
-47866eef1860f24ba28ff660c6d85e79 *R/epoisSinglyCensored.bootstrap.ci.R
+3a1f63d5b18889d578b196a34d7396ec *R/epoisSinglyCensored.bootstrap.ci.R
 ae06dff6289aded883c1b45980787f07 *R/epoisSinglyCensored.half.cen.level.R
 0b7c603c795c95bd7d133ed536bbad70 *R/epoisSinglyCensored.mle.R
 915d06fa2b8ac48419238ad1f435a260 *R/eqbeta.R
@@ -619,7 +619,7 @@ bdc8f649f1a9c3a9bc486a844a80a341 *R/wsGofTest.R
 54e6855bf91d870ebe666cb607f3ce9b *R/z.test.normal.approx.R
 1e0dd5de9ed99b65da49ed5020b4e735 *R/zTestGevdShape.R
 1d2affea828687daba9abae947d1e9bb *README.md
-7853b120a68c438f7a42af31cb7f977e *build/partial.rdb
+86a5e199ad94722b378bdbbc61b712c8 *build/partial.rdb
 f802be33388c576ecf08131d5e217d2b *data/ACE.13.TCE.df.rda
 b87ae6c1ea729f5127511fa94bcdcca9 *data/Air.df.rda
 58b15d8ca2dfb4cd11060ff72b8ad501 *data/Benthic.df.rda
