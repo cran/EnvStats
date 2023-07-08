@@ -214,11 +214,9 @@ export(anovaPE,
 	predIntNparSimultaneousN,
 	predIntNparSimultaneousTestPower,
 	predIntPois,
-	print,
 	print.boxcox,
 	print.boxcoxCensored,
 	print.boxcoxLm,
-	print.default,
 	print.estimate,
 	print.estimateCensored,
 	print.gof,
@@ -353,7 +351,6 @@ S3method(plot, gofTwoSample)
 S3method(plot, permutationTest)
 S3method(predict, default)
 S3method(predict, lm)
-S3method(print, default)
 S3method(print, boxcox)
 S3method(print, boxcoxCensored)
 S3method(print, boxcoxLm)
@@ -384,6 +381,8 @@ S3method(summaryStats, data.frame)
 S3method(summaryStats, matrix)
 S3method(summaryStats, list)
 S3method(summaryStats, formula)
+S3method(summaryStats, logical)
+S3method(summaryStats, character)
 S3method(varGroupTest, default)
 S3method(varGroupTest, data.frame)
 S3method(varGroupTest, matrix)
