@@ -1,8 +1,8 @@
 Package: EnvStats
 Type: Package
 Title: Package for Environmental Statistics, Including US EPA Guidance
-Version: 2.8.0
-Date: 2023-06-12
+Version: 2.8.1
+Date: 2023-08-21
 Authors@R: c(
   person("Steven P.","Millard",email="EnvStats@ProbStatInfo.com",role=c("aut")),
   person("Alexander", "Kowarik", email = "alexander.kowarik@statistik.gv.at", role = c("ctb","cre"),
@@ -25,9 +25,9 @@ URL: https://github.com/alexkowa/EnvStats
 LazyLoad: yes
 LazyData: yes
 NeedsCompilation: no
-Packaged: 2023-06-13 18:09:19 UTC; kowa
+Packaged: 2023-08-21 12:56:29 UTC; kowa
 Author: Steven P. Millard [aut],
   Alexander Kowarik [ctb, cre] (<https://orcid.org/0000-0001-8598-4130>)
 Maintainer: Alexander Kowarik <alexander.kowarik@statistik.gv.at>
 Repository: CRAN
-Date/Publication: 2023-07-08 12:10:09 UTC
+Date/Publication: 2023-08-22 13:10:02 UTC

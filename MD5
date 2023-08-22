@@ -1,6 +1,6 @@
-5ca83ccc55871fa43bcd377c8938c606 *DESCRIPTION
+49218c2f5deb3ff0bdd4fa18b3343883 *DESCRIPTION
 b5b7305520d3acea84b401425c21244b *NAMESPACE
-aa058de9fb390d08053c2ad200af53ab *NEWS
+3b9b6ff8005ca829275644609835f9f5 *NEWS
 4392ad7330b01587abb8b81f04d13735 *R/Dunnetts.K.F1.R
 c776c120a87b43a20853806e2a9a6d88 *R/Dunnetts.K.F2.R
 f3f82679355b5e9bb16be76fe0df707d *R/Dunnetts.K.R
@@ -617,7 +617,7 @@ bdc8f649f1a9c3a9bc486a844a80a341 *R/wsGofTest.R
 54e6855bf91d870ebe666cb607f3ce9b *R/z.test.normal.approx.R
 69e5dcdc5d42fa09730e010d30059a4d *R/zTestGevdShape.R
 1d2affea828687daba9abae947d1e9bb *README.md
-7f2094c7b4d5faa522b624cffc621f8b *build/partial.rdb
+7080893e02c49cd296d4424b9be55069 *build/partial.rdb
 f802be33388c576ecf08131d5e217d2b *data/ACE.13.TCE.df.rda
 b87ae6c1ea729f5127511fa94bcdcca9 *data/Air.df.rda
 58b15d8ca2dfb4cd11060ff72b8ad501 *data/Benthic.df.rda
@@ -835,7 +835,6 @@ ddf0a322d87d50418e51a7ec2aceca12 *man/EPA.97.cadmium.111.df.Rd
 b97b60d32cd13879dad72b67861399f4 *man/EVD.Rd
 075fd873fea8fe08ba457d42751a852f *man/Empirical.Rd
 b2aefc1d3a105ad14c8515ac5b7521fe *man/EnvStats-internal.Rd
-f67b1f07147d9fa31171efe8ac6b8b70 *man/EnvStats-package.Rd
 d7bee53c95ff24ac2b3c39960291f768 *man/Environmental.Rd
 9a749616a865521454e47bceec5cf190 *man/EulersConstant.Rd
 28c65947077b22bfeb973cce69ee9bba *man/FcnsByCat.Rd
@@ -864,7 +863,7 @@ c59c39160249591167dd01a3cee2f3c9 *man/Graham.et.al.75.etu.df.Rd
 4788af99173a168e7299516640443465 *man/Grice.Bain.80.mat.Rd
 f5d5bd2dbae7b0aca696e5fbf9cd58ab *man/Helsel.Cohn.88.app.b.df.Rd
 5e552495e5e04e0e84780004cc355f49 *man/Helsel.Cohn.88.silver.df.Rd
-6de99b25ab415e062c166d44a49465d6 *man/Helsel.Hirsch.02.Mayfly.df.Rd
+7308fa87d99763ab75bdffc2d6c46764 *man/Helsel.Hirsch.02.Mayfly.df.Rd
 59022a7ba2a485f8db0388364bcaca04 *man/HoskingEtAl1985.Rd
 077a022229648832728e35e4e1945ed5 *man/Lin.Evans.80.df.Rd
 5c4243a86d0de4eb4bb94efb4c42ae62 *man/Lognormal3.Rd
@@ -993,8 +992,8 @@ cd8f259e972d123b12f48a2035e48fa0 *man/htest.object.Rd
 23fefc87c0e672c5e5263b24170f31cb *man/htestCensored.object.Rd
 cf14922facb26b1a0f583422f73a4de1 *man/inversePredictCalibrate.Rd
 d1333eedbdc293db18363f272ec5144f *man/iqr.Rd
-7fe7335b0318890a52d557ce2e91206a *man/kendallSeasonalTrendTest.Rd
-c8f13a8ddac771ea91556afda2d879a3 *man/kendallTrendTest.Rd
+de535eb8f2a7705b9bd1daf606b3e542 *man/kendallSeasonalTrendTest.Rd
+571673232ad8c0fd53311e3fa0a49f06 *man/kendallTrendTest.Rd
 9d14faf9278c77713ebc5dbe67e830ed *man/kurtosis.Rd
 fdba143038b2e929843b15b6580ce296 *man/lMoment.Rd
 023b10ff5c40216ddc48cab1d753b896 *man/linearTrendTestN.Rd
@@ -1035,13 +1034,13 @@ ce7afc2761bef7e9181d9e0323c48dbd *man/plotTolIntNormDesign.Rd
 c4dc7a9d6e26750b6aa5b8246633b41d *man/ppointsCensored.Rd
 5e4501d778c58128524ac161fbe2d02d *man/predIntGamma.Rd
 60042b28a4ec50b5abc6b526d6e2cd6e *man/predIntGammaSimultaneous.Rd
-7058fb5e4d7c413602905378b497ca12 *man/predIntLnorm.Rd
+bfd21132c491436c546cbcda81dc0dfe *man/predIntLnorm.Rd
 67d82ceec4dd3c4fbe58809c9fabc654 *man/predIntLnormAltSimultaneousTestPower.Rd
 040dd1a8e8670bf820557f6d3f82006f *man/predIntLnormAltTestPower.Rd
 b5bfe2d4f7c39aa4fdb956957b61d0a4 *man/predIntLnormSimultaneous.Rd
-e2ca9fe8bc7ea567bc285679abfd02eb *man/predIntNorm.Rd
+8fa2a2994a417412a1e670136fd0ce24 *man/predIntNorm.Rd
 19d623b0e6e13d1386461caea16344bc *man/predIntNormHalfWidth.Rd
-0b9a7b2bff14f79f72425d4137733b17 *man/predIntNormK.Rd
+8c3fb80e454a759a0eb62f3247d5b2cc *man/predIntNormK.Rd
 009e13cd775756c0a525ad18f4c9b609 *man/predIntNormN.Rd
 1c113e8fcab3526e47fee2309e7b9048 *man/predIntNormSimultaneous.Rd
 0ef28ed28f2cb29225bee6bf370b1116 *man/predIntNormSimultaneousK.Rd
