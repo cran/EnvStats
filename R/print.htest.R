@@ -1,4 +1,4 @@
-print.htestEnvStats <-
+print.htest <-
 function (x, ...) 
 {
     coll.string <- paste("\n", space(33), sep = "")
